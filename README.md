@@ -44,5 +44,6 @@ Billing and cost trends
 
 Category‑wise medical statistics
 
-** Purpose of the Project **
+**Purpose of the Project**
+
 This repository highlights how SQL can be used as a powerful tool for healthcare analytics. It demonstrates real‑world data handling, query optimization, and insight generation — making it useful for learning, portfolio building, and practical healthcare data exploration.
